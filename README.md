@@ -171,6 +171,9 @@ See the demo video in the hackathon submission for a full walkthrough.
 | Name | Role |
 |------|------|
 | Shiva Krishna | Full-Stack Developer & AI Integration |
+| Navin Roy | Full-Stack Developer & AI Integration |
+| Hrithik Turaka | Full-Stack Developer & AI Integration |
+| Mohammed T | Full-Stack Developer & AI Integration |
 
 ---
 
